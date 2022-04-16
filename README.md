@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola 👋, Mi nombre e Jose Luis Castro
+#### Developer Full Stack
+![Developer Full Stack](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**jose9428/jose9428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante del 10mo ciclo en la Universidad Tecnologica del Perú ,apasionado por el mundo de la programación.
+Me gusta el tema de la investigación sobre las nuevas tecnologicas.
 
-Here are some ideas to get you started:
+Habilidades: ANGULAR/ VUE JS / REACT / ANGULAR JS/ JS / HTML / CSS / JAVA / C# / PHP / C++ / C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en this page. 
+- 📫 Cómo contactarme: 935162630 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100024599944318)  
+
