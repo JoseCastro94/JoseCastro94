@@ -1,4 +1,4 @@
-### Hola 👋, Mi nombre e Jose Luis Castro
+### Hola 👋, Mi nombre es Jose Luis Castro
 #### Developer Full Stack
 ![Developer Full Stack](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
