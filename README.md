@@ -11,5 +11,5 @@ Habilidades: ANGULAR/ VUE JS / REACT / ANGULAR JS/ JS / HTML / CSS / JAVA / C# /
 - 📫 Cómo contactarme: 935162630 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100024599944318)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/people/Jose-Luis/100024599944318/)  
 
