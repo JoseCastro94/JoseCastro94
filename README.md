@@ -1,8 +1,9 @@
 ### Hola 👋, Mi nombre es Jose Luis
 #### Developer Full Stack
-![Developer Full Stack](![173550942_1019110122252310_2822007093146462688_n](https://user-images.githubusercontent.com/76067475/163677154-36add070-cec0-44f9-923f-d91ca8cc254b.jpg))
+https://blog.dipe.es/wp-content/uploads/2020/04/que-es-framework.jpg
 
-Soy estudiante del 10mo ciclo en la Universidad Tecnologica del Perú ,apasionado por el mundo del desarrollo.
+Soy estudiante de la carrera de Ingenieria de Software del 10mo ciclo en la Universidad Tecnologica del Perú.
+Apasionado por el mundo del desarrollo.
 Me gusta todo tema relacionado a la investigación sobre las nuevas tecnologicas.
 Me considero una persona autodidacta.
 
