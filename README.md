@@ -15,3 +15,12 @@ Habilidades: ANGULAR/ VUE JS / REACT / ANGULAR JS/ JAVASCRIPT / JQUERY / JAVA / 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose9428)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/jose9428)  
+
+const JOSE = {
+  code: ['PHP', 'Javascript', 'HTML', 'CSS', 'Python', 'SQL'],
+  tools: ['Vue', 'Angular'],
+  workplace: '@CARES',
+  position: 'Fullstack developer',
+  description: 'Develop web systems oriented to telemedicine, evaluation of health technologies 
+  and research and training in health informatics'
+}
