@@ -16,11 +16,3 @@ Habilidades: ANGULAR/ VUE JS / REACT / ANGULAR JS/ JAVASCRIPT / JQUERY / JAVA / 
 
 ![Profile views](https://gpvc.arturio.dev/jose9428)  
 
-const JOSE = {
-  code: ['PHP', 'Javascript', 'HTML', 'CSS', 'Python', 'SQL'],
-  tools: ['Vue', 'Angular'],
-  workplace: '@CARES',
-  position: 'Fullstack developer',
-  description: 'Develop web systems oriented to telemedicine, evaluation of health technologies 
-  and research and training in health informatics'
-}
