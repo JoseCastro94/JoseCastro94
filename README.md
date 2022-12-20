@@ -2,7 +2,7 @@
 #### Developer Full Stack
 ![Developer Full Stack](https://blog.dipe.es/wp-content/uploads/2020/04/que-es-framework.jpg)
 
-Soy estudiante de la carrera de Ingenieria de Software del 10mo ciclo en la Universidad Tecnologica del Perú. Apasionado por el mundo del desarrollo. Me gusta todo tema relacionado a la investigación sobre las nuevas tecnologicas. Me considero una persona autodidacta.
+Soy Bachiller en la carrera de Ingenieria de Software. Apasionado por el mundo del desarrollo. Me gusta todo tema relacionado a la investigación sobre las nuevas tecnologicas. Me considero una persona autodidacta.
 
 Habilidades: ANGULAR/ VUE JS / REACT / ANGULAR JS/ JAVASCRIPT / JQUERY / JAVA / PHP/ C# / C++ / C / PYTHON / ANDROID
 
