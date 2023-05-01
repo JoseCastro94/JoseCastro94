@@ -2,7 +2,7 @@
 #### Developer Full Stack
 ![Developer Full Stack](https://recluit.com/WP-Blog/wp-content/uploads/2021/09/dia-programador-recluit.jpg)
 
-Soy Bachiller en la carrera de Ingenieria de Software. Apasionado por el mundo del desarrollo. Me gusta todo tema relacionado a la investigación sobre las nuevas tecnologicas. Me considero una persona autodidacta.
+Soy Bachiller en la carrera de Ingenieria de Software. Apasionado por el mundo del desarrollo. Me gusta todo tema relacionado a la investigación sobre las nuevas tecnologias. Me considero una persona autodidacta.
 
 Habilidades: ANGULAR/ VUE JS / REACT / ANGULAR JS/ JAVASCRIPT / JQUERY / JAVA / PHP/ C# / C++ / C / PYTHON / ANDROID
 
