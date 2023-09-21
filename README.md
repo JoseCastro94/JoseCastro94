@@ -7,7 +7,6 @@ Soy Bachiller en la carrera de Ingenieria de Software. Apasionado por el mundo d
 Habilidades: ANGULAR/ VUE JS / REACT / ANGULAR JS/ JAVASCRIPT / JQUERY / JAVA / PHP/ C# / C++ / C / PYTHON / ANDROID / DJANGO / NODE JS / SPRING FRAMEWORK / SPRING BOOT / BASE DE DATOS
 
 - 🌱 Estoy aprendiendo Flutter 
-- 📫 Cómo contactarme: 935162630 
 
 <h4 align="left">WhatsApp:</h4>
 <p align="left">http://wa.me/51935162630
