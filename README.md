@@ -14,9 +14,6 @@ Habilidades: ANGULAR/ VUE JS / REACT / ANGULAR JS/ JAVASCRIPT / JQUERY / JAVA / 
 <p align="left">http://wa.me/51935162630
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCastro94)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCastro94&langs_count=10&theme=dracula&layout=compact">
 </p>
