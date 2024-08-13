@@ -23,7 +23,7 @@ Habilidades: ANGULAR/ VUE JS / REACT / ANGULAR JS/ JAVASCRIPT / JQUERY / JAVA / 
 </p>
 
 <p align="center">
-  <div align="center">Visitor count</div>
+  <div align="center">Cantidad de visitas</div>
   <div align="center">
     <img src="https://profile-counter.glitch.me/JoseCastro94/count.svg"/>
   </div>
