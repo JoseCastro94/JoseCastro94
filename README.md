@@ -21,3 +21,10 @@ Habilidades: ANGULAR/ VUE JS / REACT / ANGULAR JS/ JAVASCRIPT / JQUERY / JAVA / 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JoseCastro94&show_icons=true&theme=dracula"/>
 </p>
+
+<p align="center">
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/JoseCastro94/count.svg"/>
+  </div>
+</p>
