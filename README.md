@@ -1,38 +1,32 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-new-banner.png" alt="Banner Profesional" width="700"/>
+  <img src="https://i.imgur.com/your-new-banner.png" alt="Coding Banner" width="700"/>
 </div>
 
 <h1 align="center">👨‍💻 Jose Luis</h1>
-<h3 align="center">Full Stack Developer | Apasionado por la innovación y el código de calidad</h3>
+<h3 align="center">Full Stack Developer | Apasionado por la innovación y la calidad de código</h3>
 
 ---
 
 ### 🧠 Sobre mí
 
-Ingeniero de Software | Especialista en desarrollo Backend, Frontend y bases de datos. Me enfoco en entregar código limpio, arquitecturas bien diseñadas y soluciones escalables. Me adapto fácilmente a nuevas tecnologías y metodologías ágiles (Scrum / DevOps).
+Ingeniero de Software con experiencia sólida en desarrollo de soluciones escalables usando metodologías ágiles y enfoque DevOps. Me especializo en backend, frontend y bases de datos, siempre aprendiendo y aplicando buenas prácticas como Clean Code y arquitectura hexagonal.
 
 ---
 
 ### 🚀 Tech Stack
 
-#### Frontend
-**Angular (8‑19)** · **React** · **Vue.js** · **TypeScript / JavaScript** · HTML5 · CSS3 / SASS
-
-#### Backend
-Java (Spring Boot, WebFlux) · .NET (C#, Visual Basic) · Node.js / Express · Python (Django, Flask, FastAPI) · PHP (Laravel) · Arquitecturas: microservicios, limpia y hexagonal
-
-#### Bases de Datos
-SQL Server · MySQL · PostgreSQL · Oracle 11g · MongoDB · DB2 · SQLite · H2 · Stored Procedures, optimized queries, SSRS/Crystal Reports
-
-#### DevOps & Herramientas
-Docker · Kubernetes · Git/GitHub/GitLab/Bitbucket · CI/CD (GitHub Actions, Jenkins, GitLab CI) · SonarQube · Postman
-
-#### Seguridad & APIs
-REST · SOAP · OAuth2 / JWT · Spring Security · OWASP · WebSocket (STOMP, SockJS) · Apache NIFI · Kafka · FeignClient
+| Área              | Tecnologías clave                                                                                  |
+|-------------------|----------------------------------------------------------------------------------------------------|
+| **Frontend**      | Angular (8‑19) · React · Vue.js · TypeScript / JavaScript · HTML5 · CSS3 / SASS                    |
+| **Backend**       | Java (Spring Boot / WebFlux) · .NET (C#, VB) · Node.js · Python (Django, FastAPI) · PHP (Laravel)  |
+| **Bases de Datos**| SQL Server · MySQL · PostgreSQL · Oracle 11g · MongoDB · DB2 · SQLite · Stored Procedures · SSRS    |
+| **DevOps**        | Docker · Kubernetes · Git (GitHub/GitLab/Bitbucket) · CI/CD (GH Actions, Jenkins, GitLab CI)       |
+| **Integraciones** | REST · SOAP · OAuth2 / JWT · WebSocket (STOMP/SockJS) · Kafka · FeignClient · Apache NiFi          |
+| **Testing / QA**  | JUnit · Mockito · Karma · Jasmine · SonarQube · OWASP                                               |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoseCastro94&show_icons=true&theme=dracula" alt="GitHub Stats"/>
@@ -57,6 +51,6 @@ REST · SOAP · OAuth2 / JWT · Spring Security · OWASP · WebSocket (STOMP, So
 
 📧 **Email:** *jcastro9409@gmail.com*  
 📍 **Ubicación:** Perú  
-📱 **WhatsApp:** [Contáctame por WhatsApp](https://wa.me/51935162630)
+📱 **WhatsApp:** [Contáctame](https://wa.me/51935162630)
 
 ---
