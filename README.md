@@ -4,7 +4,7 @@
   <h3>Desarrollador Full Stack apasionado por la tecnología y la calidad de código</h3>
 </div>
 
----
+--- 
 
 ### 👨‍💻 Sobre mí
 
@@ -44,10 +44,6 @@ Soy **Ingeniero de Software** con sólida experiencia en desarrollo backend y fr
 
 ### 🌍 Encuéntrame en
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/jose9428)  
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UC3IMYvCVDv2nwm_V1OOdrBA/featured)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/jose.luis94822/)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/people/Jose-Luis/100024599944318/)  
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp)](https://wa.me/51935162630)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/jose9428) [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UC3IMYvCVDv2nwm_V1OOdrBA/featured) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/jose.luis94822/) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/people/Jose-Luis/100024599944318/) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp)](https://wa.me/51935162630)
 
 ---
