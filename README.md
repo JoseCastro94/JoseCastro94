@@ -74,8 +74,10 @@ Soy **Bachiller en Ingeniería de Software** con una fuerte pasión por el desar
 
 ---
 
-### ✉️ Contacto directo
+<h4>✉️ Contacto directo</h4>
+
 📧 **Email:** *jcastro9409@gmail.com*  
 📍 **Ubicación:** Perú  
 📱 **WhatsApp:** [¡Contáctame por WhatsApp!](https://wa.me/51935162630)
+
 ---
