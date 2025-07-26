@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Developer Banner" width="150" />
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" alt="Developer Banner" width="150" />
   <h1>Hola 👋, soy Jose Luis</h1>
   <h3>Desarrollador Full Stack apasionado por la tecnología y la calidad de código</h3>
 </div>
